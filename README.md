@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with optimizing frontend performance and exploring advanced JavaScript techniques to enhance user experiences. **help with optimizing frontend performance and exploring advanced JavaScript techniques to enhance user experiences.**
 
-- 💬 Ask me about creative web design ideas, optimizing code efficiency, or my favorite coding challenges on platforms like LeetCode and CodeChef and GFG.. **creative web design ideas, optimizing code efficiency, or my favorite coding challenges on platforms like LeetCode and CodeChef and GFG..**
+- 💬 Ask me about creative web design ideas, optimizing code efficiency, or my favorite coding challenges on platforms like LeetCode and CodeChef and GFG.. **creative web design ideas, optimizing code efficiency, or my favorite coding challenges on platforms like LeetCode and GFG..**
 
 - ⚡ Fun fact **When I'm not coding, you'll often find me i'm exploring new places and making connections with local peoples.**
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan6397&label=Profile%20views&color=0e75b6&style=flat" alt="farhan6397" /> </p>
