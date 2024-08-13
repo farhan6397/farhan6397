@@ -1,8 +1,9 @@
 <h1 align="center">Hi there👋, I'm Farhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="left">About me! </h1>
 
 <img align="right" alt="coding image" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" >
-<h1 align="left">About me! </h1>
+
 - 🔭 I’m currently working on refining my React.js skills and building a dynamic event discovery app using React.js and Express.js. **refining my React.js skills and building a dynamic event discovery app using React.js and Express.js.**
 
 - 🌱 I’m currently learning Redux.js to efficiently manage state in complex web applications and diving deeper into backend technologies like Node.js **learning Redux.js to efficiently manage state in complex web applications and diving deeper into backend technologies like Node.js**
