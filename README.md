@@ -7,6 +7,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhan6397" alt="farhan6397" /></a> </p>
 
+- 🔭 I’m currently working on refining my React.js skills and building a dynamic event discovery app using React.js and Express.js. **refining my React.js skills and building a dynamic event discovery app using React.js and Express.js.**
+
+- 🌱 I’m currently learning Redux.js to efficiently manage state in complex web applications and diving deeper into backend technologies like Node.js **learning Redux.js to efficiently manage state in complex web applications and diving deeper into backend technologies like Node.js**
+
+- 👯 I’m looking to collaborate on open-source projects that push the boundaries of web development and incorporate innovative design concepts **collaborate on open-source projects that push the boundaries of web development and incorporate innovative design concepts**
+
+- 🤝 I’m looking for help with optimizing frontend performance and exploring advanced JavaScript techniques to enhance user experiences. **help with optimizing frontend performance and exploring advanced JavaScript techniques to enhance user experiences.**
+
+- 💬 Ask me about creative web design ideas, optimizing code efficiency, or my favorite coding challenges on platforms like LeetCode and CodeChef and GFG.. **creative web design ideas, optimizing code efficiency, or my favorite coding challenges on platforms like LeetCode and CodeChef and GFG..**
+
 - ⚡ Fun fact **When I'm not coding, you'll often find me i'm exploring new places and making connections with local peoples.**
 
 <h3 align="left">Connect with me:</h3>
