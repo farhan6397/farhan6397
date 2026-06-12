@@ -8,20 +8,42 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <h1 align="left">About me! </h1>
 
-<img align="right" alt="coding image" width="400" src="https://media.licdn.com/dms/image/D5612AQGOmwfIE5mlWA/article-cover_image-shrink_720_1280/0/1674617947228?e=2147483647&v=beta&t=FTU_isQ6VYfV5D_ueFHPWvT8ZqgDeJG3yr8Mi8lpfk0" >
+<img align="right" alt="Developer" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-- 🔭 I’m currently working on refining my React.js skills and building a dynamic event discovery app using React.js and Express.js. **refining my React.js skills and building a dynamic event discovery app using React.js and Express.js.**
+### Hi there 👋 I'm Farhan
 
-- 🌱 I’m currently learning Redux.js to efficiently manage state in complex web applications and diving deeper into backend technologies like Node.js **learning Redux.js to efficiently manage state in complex web applications and diving deeper into backend technologies like Node.js**
+🚀 Full-Stack Developer passionate about building scalable, high-performance web applications using the MERN Stack. Currently working as a React.js Developer with hands-on experience in developing production-ready applications using React.js, Next.js, TypeScript, Node.js, Express.js, MongoDB, and REST APIs.
 
-- 👯 I’m looking to collaborate on open-source projects that push the boundaries of web development and incorporate innovative design concepts **collaborate on open-source projects that push the boundaries of web development and incorporate innovative design concepts**
+💼 **Experience**
 
-- 🤝 I’m looking for help with optimizing frontend performance and exploring advanced JavaScript techniques to enhance user experiences. **help with optimizing frontend performance and exploring advanced JavaScript techniques to enhance user experiences.**
+**React.js Developer | Appnautics Design Lab** *(Jan 2026 – Present)*
 
-- 💬 Ask me about creative web design ideas, optimizing code efficiency, or my favorite coding challenges on platforms like LeetCode and CodeChef and GFG.. **creative web design ideas, optimizing code efficiency, or my favorite coding challenges on platforms like LeetCode and GFG..**
+* Developing Jobvob, a full-stack job portal with Jobseeker and Employer dashboards.
+* Built SEO-friendly and high-performance applications using Next.js and TypeScript.
+* Implemented JWT Authentication, Role-Based Access Control, and Razorpay Payment Integration.
+* Optimized frontend performance and integrated scalable REST APIs.
 
-- ⚡ Fun fact **When I'm not coding, you'll often find me i'm exploring new places and making connections with local peoples.**
-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan6397&label=Profile%20views&color=0e75b6&style=flat" alt="farhan6397" /> </p>
+**JavaScript Developer | Maa Shanti Skills Pvt. Ltd.** *(Oct 2025 – Jan 2026)*
+
+* Developed reusable JavaScript components and enhanced application performance.
+* Delivered technical training sessions on JavaScript, HTML, and CSS.
+* Mentored students and simplified complex programming concepts.
+
+🌱 Currently learning advanced backend development, scalable architecture, and system design with Node.js.
+
+👯 Looking to collaborate on MERN Stack, SaaS, and open-source projects.
+
+🤝 Interested in frontend performance optimization, API design, and modern web technologies.
+
+💬 Ask me about React.js, Next.js, Node.js, Express.js, MongoDB, REST APIs, JWT Authentication, Razorpay Integration, JavaScript, and DSA.
+
+🛠️ **Tech Stack**
+React.js • Next.js • TypeScript • Redux • Node.js • Express.js • MongoDB • SQL • Tailwind CSS • Bootstrap • Git • GitHub • Postman
+
+⚡ Fun Fact: When I'm not coding, you'll find me exploring new places, connecting with people, and continuously learning new technologies.
+
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhan6397&label=Profile%20views&color=0e75b6&style=flat" alt="farhan6397" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhan6397" alt="farhan6397" /></a> </p>
 
